@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @workmyhappy
-- 👀 I’m interested in ...Programmer Technologu
+- 👀 I’m interested in ...Programmer Technology
 - 🌱 I’m currently learning ...c#
 - 💞️ I’m looking to collaborate on ...Programmer
 - 📫 How to reach me ...
