@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @workmyhappy
 - 👀 I’m interested in ...Programmer Technology
-- 🌱 I’m currently learning ...c#
+- 🌱 I’m currently learning ...c#,vb,js,node,css,database,server,linux
 - 💞️ I’m looking to collaborate on ...Programmer
 - 📫 How to reach me ...
 
